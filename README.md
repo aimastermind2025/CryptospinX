@@ -1,6 +1,7 @@
 # 🎰 Crypto SpinX
 
-![Crypto SpinX Banner](assets/banner.png)
+<img width="593" height="592" alt="image" src="https://github.com/user-attachments/assets/75d0bd49-fd6f-48c7-ae38-9339b96fa4cf" />
+
 
 **Crypto SpinX** is a free, open-source **3×3 slot machine** built with **HTML5 + JavaScript**.  
 Responsive, skinnable, and token-ready — designed for **Web3, play-to-earn, NFT, and arcade** projects.  
