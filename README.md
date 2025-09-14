@@ -16,13 +16,3 @@ Responsive, skinnable, and token-ready — designed for **Web3, play-to-earn, NF
 - 📱 Responsive HTML5 design (mobile + desktop).  
 - ⚡ MIT licensed — fork, reskin, and launch quickly.  
 
----
-
-## 🚀 Quick Start
-
-### Local Demo
-```bash
-git clone https://github.com/<yourname>/CryptoSpinX
-cd CryptoSpinX
-npm install
-npm start
